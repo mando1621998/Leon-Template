@@ -1,2 +1,2 @@
 # Leon-Template
-https://github.com/mando1621998/Leon-Template/settings/pages
+https://mando1621998.github.io/Leon-Template/
